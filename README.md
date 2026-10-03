@@ -1,33 +1,36 @@
-# **Fruta & Fruto**
+# Fruta & Fruto
 
-## **Para acessar o site, [*clique aqui*](https://thedevnicolas.github.io/projeto-arquitetura-css-responsivo/)**
+> **Learning project — course/tutorial exercise.** Kept public as part of my front-end learning history; not professional client work.
 
-### Execução
-Projeto de uma página de receitas desenvolvido durante a formação Front-end da Alura para trabalhar com métodos ágeis, responsividade e media query.
+A learning project built during Alura's front-end coursework to practice CSS organization and responsive design through a recipe website.
 
-### **Habilidades praticadas** 
-- Estrutura HTML básica;
-- Estilização com CSS, utilizando *FlexBox, MediaQueries , responsividade e metodologias*.
+This is a static recipe page created as a course exercise.
 
-### **O que aprendi?**
-- Metodologia Atomic Design;
-- Metodologia BEM;
-- Um padrão para nomear as classes de CSS;
-- A utilizar seletores CSS mais simples;
-- A organizar e estruturar os arquivos css do projeto;
-- Boas práticas com importação de imagens;
-- A manter as estilizações nos arquivos de estilo;
-- Imagens ilustrativas devem estar referenciadas em nossos arquivos .css;
-- Como configurar a adaptação do site a diferentes tamanhos de tela.
+## Skills practiced
 
-## **Previews**:
+- HTML page structure and Flexbox
+- Responsive layouts with media queries
+- Atomic Design concepts and BEM naming conventions
+- Organizing CSS files by component
+- Using simpler CSS selectors
+- Working with images and CSS backgrounds
 
-### **Monitor**
-#### **Clique no Play para reproduzir o vídeo**
+## View the project
 
-![AnimaçãoWeb](https://user-images.githubusercontent.com/110689312/192534414-04932329-6ad9-44f8-8490-74eb6d7d6302.gif)
+[GitHub Pages demo](https://nicolasoliveiraops.github.io/projeto-arquitetura-css-responsivo/)
 
-### **Mobile**
-#### **Clique no Play para reproduzir o vídeo**
+## Run locally
 
-![AnimaçãoMobilee](https://user-images.githubusercontent.com/110689312/192535982-478f4140-d9a5-4550-806c-b4d0f1194f77.gif)
+Clone or download this repository and open `index.html` in a browser. No build step is required.
+
+## Previews
+
+These screenshots show the original learning project.
+
+### Desktop animated preview
+
+![Desktop animated preview](https://user-images.githubusercontent.com/110689312/192534414-04932329-6ad9-44f8-8490-74eb6d7d6302.gif)
+
+### Mobile animated preview
+
+![Mobile animated preview](https://user-images.githubusercontent.com/110689312/192535982-478f4140-d9a5-4550-806c-b4d0f1194f77.gif)
